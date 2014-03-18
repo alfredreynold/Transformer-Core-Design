@@ -15,10 +15,7 @@ public class TFDesign implements UIListener{
     private static HashMap<Integer, Double> pm;
     private static HashMap<Integer, Double> qm;
     private static HashMap<Integer, Double> fulQ;
-    private static double reqArea;
-    
-    
-    
+    private static double reqArea;    
 
     /**
      * @param args the command line arguments
@@ -95,6 +92,7 @@ public class TFDesign implements UIListener{
         
                 
     }
+
     
     private double finalD;
     private double finalTeta;
